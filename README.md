@@ -1,2 +1,5 @@
-# semana-js
- Semana do JavaScript com o professor Roger Melo
+# Semana-JS
+
+Semana do JavaScript com o professor Roger Melo
+
+Conteúdo: Map, Filter e Reduce.
